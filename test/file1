@@ -1,2 +1,4 @@
 hi
-rebase 연습용 test 브랜치 내용 수정
+rebase 병합 충돌 해결
+ - rebase 연습용 test 브랜치 내용 수정
+ - rebase 연습용 main 브랜치 내용 수정 
